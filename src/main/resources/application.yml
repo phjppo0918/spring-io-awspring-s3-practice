@@ -6,9 +6,9 @@ spring:
   cloud:
     aws:
       credentials:
-        access-key: "adsf"
+        access-key: "asdf"
         secret-key: "asdf"
       s3:
-        bucket: "bucket_name" //custom
+        bucket: "asdfasdf"
 
 
