@@ -1,0 +1,14 @@
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
+  cloud:
+    aws:
+      credentials:
+        access-key: "adsf"
+        secret-key: "asdf"
+      s3:
+        bucket: "bucket_name" //custom
+
+
